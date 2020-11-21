@@ -1,1 +1,2 @@
 this is first class
+THIS IS SECOND LINE FROM CENTRAL REPO
